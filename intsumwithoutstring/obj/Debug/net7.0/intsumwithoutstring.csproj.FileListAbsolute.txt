@@ -1,0 +1,15 @@
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/bin/Debug/net7.0/intsumwithoutstring
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/bin/Debug/net7.0/intsumwithoutstring.deps.json
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/bin/Debug/net7.0/intsumwithoutstring.runtimeconfig.json
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/bin/Debug/net7.0/intsumwithoutstring.dll
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/bin/Debug/net7.0/intsumwithoutstring.pdb
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/intsumwithoutstring.csproj.AssemblyReference.cache
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/intsumwithoutstring.GeneratedMSBuildEditorConfig.editorconfig
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/intsumwithoutstring.AssemblyInfoInputs.cache
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/intsumwithoutstring.AssemblyInfo.cs
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/intsumwithoutstring.csproj.CoreCompileInputs.cache
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/intsumwithoutstring.dll
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/refint/intsumwithoutstring.dll
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/intsumwithoutstring.pdb
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/intsumwithoutstring.genruntimeconfig.cache
+/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/obj/Debug/net7.0/ref/intsumwithoutstring.dll

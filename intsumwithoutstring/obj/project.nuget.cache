@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lSR29DsPQkZI4wev48H31bEk1vb4FtwuykUe7rrP1k+uL5BvFqIm5QOxofomUhVnmn/ksLVQxnSJbXuFLKs4XA==",
+  "success": true,
+  "projectFilePath": "/home/Ame/Code/C#/intsumwithoutstring/intsumwithoutstring/intsumwithoutstring.csproj",
+  "expectedPackageFiles": [
+    "/home/Ame/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
